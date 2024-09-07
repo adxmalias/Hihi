@@ -6,7 +6,7 @@ const gif = document.querySelector(".gif");
 // Change text and gif when the Yes button is clicked
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "Saya Pun Sama HIHI";
-  gif.src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnBzbjJuOW1qN2RtbG5jMnQyZm5iMml3anhyOXR2d2hmNHluOGE4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ij0ZnyDGT7kscQRgGT/giphy.gif";
+  gif.src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXEza2E3NWVxNmRoaDQxNmRtaDdlaXJmMW9sdW1idnZ3aWFpaHN0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FDbIUZLwbCUS4786z3/giphy.gif";
 });
 
 // Make the No button move randomly on hover
