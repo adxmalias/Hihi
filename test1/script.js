@@ -5,7 +5,7 @@ const gif = document.querySelector(".gif");
 
 // Change text and gif when the Yes button is clicked
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Saya Pun Sayang Jugak HiHi";
+  question.innerHTML = "Saya pun sayang awak jugak hihi🤭";
   gif.src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXEza2E3NWVxNmRoaDQxNmRtaDdlaXJmMW9sdW1idnZ3aWFpaHN0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FDbIUZLwbCUS4786z3/giphy.gif";
 });
 
